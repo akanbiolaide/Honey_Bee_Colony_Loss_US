@@ -64,6 +64,9 @@ Data Description:
 
 ### Database Structure - DBD Diagram:
 
+<img width="683" alt="Honey_Bee_ERD" src="https://user-images.githubusercontent.com/78699465/125533975-f9b3b495-3cd9-4011-a4a5-ba9c1121d186.png">
+
+
 
 ### Dashboard: 
  Tableau will be used to create the dashboard for this project will include the following:
