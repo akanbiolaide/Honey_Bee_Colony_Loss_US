@@ -4,7 +4,7 @@
 
 ## Overview
 
-### Question: Why Should We Care About Honey Bees? No Honey Bees = No Food
+### Why Should We Care About Honey Bees? No Honey Bees = No Food
 
 - The United States Department of Agriculture estimates that pollinators such as bees and butterflies help pollinate approximately 75 percent of the world's flowering plants and      pollinate roughly 35 percent of the world's food crops—including fruits and vegetables.
 
@@ -22,3 +22,12 @@
 
 Data Sources:
 - USDA National Agriculture Statistics Service: https://quickstats.nass.usda.gov/
+
+### Purpose of this analysis:
+
+  The purpose of this analysis is to analyze the data on Honey Bee Colony Loss over the past decade to determine if the measures implemented by the USDA and other organizations to improve general Honey Bee health and habitate have been and are effective.
+  
+ **Other questions we hope to answer:**
+  - Are there specific measures that are more effecrive than others?
+  - What else can be done to help improve the health and habitate of Honey Bees in the US?
+  - What can the general public do to help?
