@@ -12,7 +12,7 @@
 
 - The United States Department of Agriculture estimates that pollinators such as bees and butterflies help pollinate approximately 75 percent of the world's flowering plants and      pollinate roughly 35 percent of the world's food crops—including fruits and vegetables.
 
-- Commercial production of many high-value and specialty crops like almonds and other tree nuts, berries, fruits and vegetables depend on pollination by honey bees.  Almonds, for example, are almost completely dependent on honey bees for pollination. According to the USDA, of the 2.5 million colonies of bees in the United States, the almond crop in California alone requires approximately 2 million colonies, and this need is projected to increase significantly over the next few years. Growers depend increasingly on beekeepers from other states to transport honey bee colonies across the country to meet the pollination demand (a practice known as migratory beekeeping).
+- Commercial production of many high-value and specialty crops such as tree nuts, berries, fruits and vegetables depend on pollination by honey bees.  Almonds, for example, are almost completely dependent on honey bees for pollination. According to the USDA, of the 2.5 million colonies of bees in the United States, the almond crop in California alone requires approximately 2 million colonies, and this need is projected to increase significantly over the next few years. Growers depend increasingly on beekeepers from other states to transport honey bee colonies across the country to meet the pollination demand (a practice known as migratory beekeeping).
 
 
 ### Threats to Honey Bee Population in the US:
