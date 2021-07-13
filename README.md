@@ -44,7 +44,8 @@ Data Sources:
 Data Description:
 
 - The data for this analysis is accessible by downloading raw data in comma-separated value (CSV) files for import into a database, spreadsheet, or text editing program using the USDA National Agriculture Statistics Service Quick Tool.
-    The data we selected was downloaded in separate csv files by year from 2010 to 2017 and then combined into one csv file containing Honey Bee Colony Loss data from 2010 to 2017.
+    The data we selected was downloaded in separate csv files by year from 2010 to 2017 and then combined into one csv file containing Honey Bee Colony Loss data from 2010 to 2017. 
+ - A csv file containing data of reported stressors(threats) contributing to colony losses by state, stressor and year from 2015 to 2018.
     
 ### Resources: Technologies we will use for this analysis
 
@@ -61,8 +62,26 @@ Data Description:
 
 
 ### Dashboard: 
- Tableau will be used to create the dashboard for this project and will include An interactive map of the US with following items:    
+ Tableau will be used to create the dashboard for this project and will include An interactive map of the US with following items:
+ 
+  - An infographic with overview and background of the topic, honey bee colony loss in the US.
+  
+ ![HBinfographic_small](https://user-images.githubusercontent.com/78699465/125529077-b90484c1-c7bd-4495-9ab3-5eeb44afe002.png)
+
+
+  
   - A dropdown menu with the ability to select the year to view Honey Bee colony loss by state or select the count of Beekeepers per state by year.
+  <img width="481" alt="Beekeeper_by_State" src="https://user-images.githubusercontent.com/78699465/125522294-5a8caef3-9634-407d-a080-3278d0212bc3.png">
+
+  - A bar chart showing total annual colony loss
+  <img width="362" alt="Total_Annual_Loss_Chart" src="https://user-images.githubusercontent.com/78699465/125523670-6b083912-013c-464c-96d5-49c71202bebe.png">
+
+### Team
+   - Monica Holmes
+   - Sarah Manning
+   - Jeffte Meneus
+   - Ferris El-Rashad
+   - Olaide Akanbi
     
 ### Communication:
    - Our team will meet 3x a week, outside of class on Zoom.
