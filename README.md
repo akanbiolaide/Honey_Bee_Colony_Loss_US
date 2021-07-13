@@ -20,7 +20,7 @@
 ### Threats to Honey Bee Population in the US:
 
 - Colony Collaspe Disorder (CCD)
-- Parasite - Varroa mites
+- Parasites - Varroa mites
 - Pathogens/Disease
 - Poor Nutrition
 - Pesticides
