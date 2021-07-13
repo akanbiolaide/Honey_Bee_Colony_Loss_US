@@ -2,6 +2,10 @@
 
 ## Tracking Honey Bee Colony Loss in the US
 
+![HoneyBees2](https://user-images.githubusercontent.com/78699465/125530200-7eb93760-cea2-4841-81f4-06c0c68ab18d.jpg)
+
+
+
 ### Why Should We Care About Honey Bees? No Honey Bees = No Food
 
 - The United States Department of Agriculture estimates that pollinators such as bees and butterflies help pollinate approximately 75 percent of the world's flowering plants and      pollinate roughly 35 percent of the world's food crops—including fruits and vegetables. It is estmated that one mouthful in three in our diet directly or indirectly benefits from Honey Bee pollination. 
@@ -62,7 +66,7 @@ Data Description:
 
 
 ### Dashboard: 
- Tableau will be used to create the dashboard for this project and will include An interactive map of the US with following items:
+ Tableau will be used to create the dashboard for this project will include the following:
  
   - An infographic with overview and background of the topic, honey bee colony loss in the US.
   
@@ -70,7 +74,8 @@ Data Description:
 
 
   
-  - A dropdown menu with the ability to select the year to view Honey Bee colony loss by state or select the count of Beekeepers per state by year.
+  -  An interactive map of the US with following items: A dropdown menu with the ability to select the year to view Honey Bee colony loss by state or select the count of Beekeepers per state by year. As well as other variables.
+  
   <img width="481" alt="Beekeeper_by_State" src="https://user-images.githubusercontent.com/78699465/125522294-5a8caef3-9634-407d-a080-3278d0212bc3.png">
 
   - A bar chart showing total annual colony loss
