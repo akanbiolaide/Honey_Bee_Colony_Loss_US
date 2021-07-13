@@ -63,6 +63,8 @@ Data Description:
 ### Dashboard: 
  Tableau will be used to create the dashboard for this project and will include An interactive map of the US with following items:    
   - A dropdown menu with the ability to select the year to view Honey Bee colony loss by state or select the count of Beekeepers per state by year.
+  - A bar graph comparing percentage of total colony loss per year.
+  - An infographic for top threats and stressors to Honey Bees.
     
 ### Communication:
    - Our team will meet 3x a week, outside of class on Zoom.
