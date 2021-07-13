@@ -4,13 +4,11 @@
 
 ### Why Should We Care About Honey Bees? No Honey Bees = No Food
 
-- ???It is estmated that one mouthful in three in our diet directly or indirectly benefits from Honey Bee pollination. 
+- The United States Department of Agriculture estimates that pollinators such as bees and butterflies help pollinate approximately 75 percent of the world's flowering plants and      pollinate roughly 35 percent of the world's food crops—including fruits and vegetables. It is estmated that one mouthful in three in our diet directly or indirectly benefits from Honey Bee pollination. 
 
 - Honey Bee colony losses have steadily increased over the past decade from an average of 26% loss in 2006 to 44% in 2017.
 
 - Agricultural productivity in the US is highly dependent on the European Honey Bee (Apis mellifera)
-
-- The United States Department of Agriculture estimates that pollinators such as bees and butterflies help pollinate approximately 75 percent of the world's flowering plants and      pollinate roughly 35 percent of the world's food crops—including fruits and vegetables.
 
 - Commercial production of many high-value and specialty crops such as tree nuts, berries, fruits, and vegetables depend on pollination by honey bees.  Almonds, for example, are almost completely dependent on honey bees for pollination. According to the USDA, of the 2.5 million colonies of bees in the United States, the almond crop in California alone requires approximately 2 million colonies, and this need is projected to increase significantly over the next few years. Growers depend increasingly on beekeepers from other states to transport Honey Bee colonies across the country to meet the pollination demand (a practice known as migratory beekeeping).
 
