@@ -43,6 +43,7 @@ The annual colony loss survey, has been conducted since 2006, when beekeepers be
 
 Data Sources:
 - USDA National Agriculture Statistics Service: https://quickstats.nass.usda.gov/
+- USDA Economics, Statisticsand Market Information Sysytem https://usda.library.cornell.edu/concern/publications/rn301137d?locale=en
 - Bee Informed Reasearch Project: https://research.beeinformed.org/
 
 Data Description:
