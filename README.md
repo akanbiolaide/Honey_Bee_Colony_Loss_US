@@ -39,16 +39,17 @@
   - What can the general public do to help?
 
 ### Data Resources and Description:
-The annual colony loss survey, has been conducted since 2006, when beekeepers began noticing dramatic losses in their colonies.
 
 Data Sources:
 - USDA National Agriculture Statistics Service: https://quickstats.nass.usda.gov/
+- USDA Economics, Statistics and Market Information Sysytem https://usda.library.cornell.edu/concern/publications/rn301137d?locale=en
 - Bee Informed Reasearch Project: https://research.beeinformed.org/
 
 Data Description:
 
 - The data for this analysis is accessible by downloading raw data in comma-separated value (CSV) files for import into a database, spreadsheet, or text editing program using the USDA National Agriculture Statistics Service Quick Tool.
-    The data we selected was downloaded in separate csv files by year from 2010 to 2017 and then combined into one csv file containing Honey Bee Colony Loss data from 2010 to 2017. 
+    The data we selected was downloaded in separate csv files by year from 2010 to 2017 and then combined into one csv file containing Honey Bee Colony Loss data from 2010 to 2017.
+ - Data for Honey Bee Colony Loss from January 2017 to June 2020 was download from the USDA Economics, Statistics and Market Information System.
  - A csv file containing data of reported stressors(threats) contributing to colony losses by state, stressor and year from 2015 to 2018.
     
 ### Resources: Technologies we will use for this analysis
