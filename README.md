@@ -8,11 +8,11 @@
 
 ### Why Should We Care About Honey Bees? No Honey Bees = No Food
 
-- The United States Department of Agriculture estimates that pollinators such as bees and butterflies help pollinate approximately 75 percent of the world's flowering plants and      pollinate roughly 35 percent of the world's food crops—including fruits and vegetables. It is estmated that one mouthful in three in our diet directly or indirectly benefits from Honey Bee pollination. 
-
 - Honey Bee colony losses in the US have steadily increased over the past decade from an average of 26% loss in 2006 to 44% in 2017.
 
-- Agricultural productivity in the US is highly dependent on the European Honey Bee (Apis mellifera)
+- Agricultural productivity in the US is highly dependent on the European Honey Bee (Apis mellifera).
+
+- The United States Department of Agriculture estimates that pollinators such as bees and butterflies help pollinate approximately 75 percent of the world's flowering plants and      pollinate roughly 35 percent of the world's food crops—including fruits and vegetables. It is estmated that one mouthful in three in our diet directly or indirectly benefits from Honey Bee pollination. 
 
 - Commercial production of many high-value and specialty crops such as tree nuts, berries, fruits, and vegetables depend on pollination by honey bees.  Almonds, for example, are almost completely dependent on honey bees for pollination. According to the USDA, of the 2.5 million colonies of bees in the United States, the almond crop in California alone requires approximately 2 million colonies, and this need is projected to increase significantly over the next few years. Growers depend increasingly on beekeepers from other states to transport Honey Bee colonies across the country to meet the pollination demand (a practice known as migratory beekeeping).
 
@@ -20,22 +20,21 @@
 ### Stressors and Threats to Honey Bee Population in the US:
 
 - Colony Collaspe Disorder (CCD)
-- Parasites - Varroa mites
+- Parasites
 - Pathogens/Disease
 - Poor Nutrition
 - Pesticides
-- Improper Management of Bee Colonies - Queen Quality
+- Improper Management of Bee Colonies
 
 ### Purpose of this analysis:
 
-  The purpose of this project is to analyze the data on Honey Bee Colony Loss from 2010 to 2020 to determine what may causing or contributing to the decline of Honey Bee colonies in the US
+  The purpose of this project is to analyze the data on Honey Bee Colony Loss from 2010 to 2020 to determine what threats and stressors are causing or contributing to the decline of Honey Bee colonies in the US.
   
   This analysis was selected because we want to highlight the growing decline of Honey Bee colonies in the U.S.
   
  **Other questions we hope to answer:**
  
-  - Are there specific measures that are more effective than others?
-  - What else can be done to help improve the health and habitate of Honey Bees in the US?
+  - What measures can be implemented to help improve the health and habitate of Honey Bees in the US?
   - What can the general public do to help?
 
 ### Data Resources and Description:
@@ -79,7 +78,7 @@ Data Description:
   
   <img width="481" alt="Beekeeper_by_State" src="https://user-images.githubusercontent.com/78699465/125522294-5a8caef3-9634-407d-a080-3278d0212bc3.png">
 
-  - A bar chart showing total annual colony loss
+  - A bar chart showing total annual colony loss with ability to select stressor data.
   <img width="362" alt="Total_Annual_Loss_Chart" src="https://user-images.githubusercontent.com/78699465/125523670-6b083912-013c-464c-96d5-49c71202bebe.png">
 
 ### Team
