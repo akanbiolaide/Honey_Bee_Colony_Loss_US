@@ -17,7 +17,7 @@
 - Commercial production of many high-value and specialty crops such as tree nuts, berries, fruits, and vegetables depend on pollination by honey bees.  Almonds, for example, are almost completely dependent on honey bees for pollination. According to the USDA, of the 2.5 million colonies of bees in the United States, the almond crop in California alone requires approximately 2 million colonies, and this need is projected to increase significantly over the next few years. Growers depend increasingly on beekeepers from other states to transport Honey Bee colonies across the country to meet the pollination demand (a practice known as migratory beekeeping).
 
 
-### Threats to Honey Bee Population in the US:
+### Stressors and Threats to Honey Bee Population in the US:
 
 - Colony Collaspe Disorder (CCD)
 - Parasites - Varroa mites
@@ -28,7 +28,7 @@
 
 ### Purpose of this analysis:
 
-  The purpose of this analysis is to analyze the data on Honey Bee Colony Loss over the past decade to determine if the measures implemented by the USDA and other organizations to improve general Honey Bee health and habitate have been effective.
+  The purpose of this project is to analyze the data on Honey Bee Colony Loss from 2010 to 2020 to determine what may causing or contributing to the decline of Honey Bee colonies in the US
   
   This analysis was selected because we want to highlight the growing decline of Honey Bee colonies in the U.S.
   
