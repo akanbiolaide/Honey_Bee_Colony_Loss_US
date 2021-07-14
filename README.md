@@ -10,7 +10,7 @@
 
 - The United States Department of Agriculture estimates that pollinators such as bees and butterflies help pollinate approximately 75 percent of the world's flowering plants and      pollinate roughly 35 percent of the world's food crops—including fruits and vegetables. It is estmated that one mouthful in three in our diet directly or indirectly benefits from Honey Bee pollination. 
 
-- Honey Bee colony losses have steadily increased over the past decade from an average of 26% loss in 2006 to 44% in 2017.
+- Honey Bee colony losses in the US have steadily increased over the past decade from an average of 26% loss in 2006 to 44% in 2017.
 
 - Agricultural productivity in the US is highly dependent on the European Honey Bee (Apis mellifera)
 
